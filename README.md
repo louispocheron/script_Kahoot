@@ -1,5 +1,5 @@
 # Script pour le kahoot du vendredi soir  
-## t'es un flemard comme moi et tu veux pas passer du temps sur les kahoot ? Ce repo est fait pour toi !
+## tu veux pas passer du temps sur les kahoot de l'ACS ? Ce repo est fait pour toi !
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
